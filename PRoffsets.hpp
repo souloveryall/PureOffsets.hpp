@@ -8,7 +8,7 @@
 #include <cstdint>
 
 namespace FFlagOffsets {
-    inline constexpr uintptr_t FFlagList   = 0x805F198;
+    inline constexpr uintptr_t FFlagList   = 0x7CE33D8;
     inline constexpr uintptr_t ValueGetSet = 0x30;
     inline constexpr uintptr_t FlagToValue = 0xC0;
 }
